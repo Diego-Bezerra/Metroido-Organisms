@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MetroidoOrganismsLiveWallpaper.iml" filepath="$PROJECT_DIR$/MetroidoOrganismsLiveWallpaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metroido_organisms/metroido_organisms.iml" filepath="$PROJECT_DIR$/metroido_organisms/metroido_organisms.iml" />
+    </modules>
+  </component>
+</project>

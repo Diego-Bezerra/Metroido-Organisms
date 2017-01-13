@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Metroido Organisms Live Wallpaper</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="metroido_lwp_desc">A live wallpaper of Metroidos</string>
+</resources>
